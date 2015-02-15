@@ -319,8 +319,8 @@ Full-Width Styles
   position: absolute;
   width: 80px;
   z-index: 10;
-  bottom: 40px;
-  right: -80;
+  bottom: 50px;
+  right: -40;
   height: 80px;
   background: url('../images/ic_launcher.png') no-repeat 0% 90%;
 }
