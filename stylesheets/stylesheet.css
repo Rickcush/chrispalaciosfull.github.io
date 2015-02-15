@@ -321,7 +321,7 @@ Full-Width Styles
 }
 
 #downloads {
-  position: relative;
+  position: absolute;
   padding: 5px;
   width: 80px;
   z-index: 10;
