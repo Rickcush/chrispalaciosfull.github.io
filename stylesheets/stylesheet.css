@@ -321,9 +321,10 @@ Full-Width Styles
 
 #downloads {
   position: relative;
+  padding: 5px;
   width: 80px;
   z-index: 10;
-  bottom: 0px;
+  bottom: -30px;
   height: 80px;
   background: url('../images/ic_launcher.png') no-repeat 0% 90%;
 }
@@ -374,7 +375,6 @@ Full-Width Styles
   background: -ms-linear-gradient(top, #B4FFFF, #4465AD);
   background: -o-linear-gradient(top, #B4FFFF, #4465AD);
   background: linear-gradient(top, #B4FFFF, #4465AD);
-  color: white;
 }
 
 
