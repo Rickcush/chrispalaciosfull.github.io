@@ -1,5 +1,8 @@
 # chrispalaciosfull.github.io
 
+Screamer Description:
+Screamer is an interactive soundboard app that plays sounds when you move your phone, such as screaming when you drop it, or lawnmower sounds when you pull it back. 
+
 CodeDay Description:
 The Scream Team built Screamer over 24 hours at CodeDay Chicago. CodeDay is an event to encourage young people to code, by locking us in a room for 24 hours and seeing what comes out. To learn more, go to https://codeday.org/
 
